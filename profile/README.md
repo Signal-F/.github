@@ -4,15 +4,3 @@ In industry, single-board computers are primarily used in measurement and contro
 
 SignalF is a soft real-time system. The sensor data is read in, the control algorithms and calculators are executed and the control values are output to the actuator at defined time intervals using configurable tasks. When creating your measurement and control software, you no longer have to worry about the architecture of the application, but can concentrate entirely on connecting the hardware and implementing your algorithms.
 
-## Architecture overview
-<img src="https://github.com/Signal-F/.github/blob/main/profile/Architecture.png" alt="SignalF architecture" style="width:640px;"/>
-
-### Scheduling
-
-### Signal flow
-
-### Hardware access
-
-### Data output
-
-### Process control
